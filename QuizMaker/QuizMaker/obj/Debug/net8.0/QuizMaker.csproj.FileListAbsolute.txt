@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\bin\Debug\net8.0\QuizMaker.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\bin\Debug\net8.0\QuizMaker.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\bin\Debug\net8.0\QuizMaker.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\bin\Debug\net8.0\QuizMaker.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\bin\Debug\net8.0\QuizMaker.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\refint\QuizMaker.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\QuizMaker.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\QuizMaker\QuizMaker\obj\Debug\net8.0\ref\QuizMaker.dll

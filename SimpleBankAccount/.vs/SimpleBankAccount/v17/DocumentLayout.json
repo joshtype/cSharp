@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\simplebankaccount\\simplebankaccount\\savings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|solutionrelative:simplebankaccount\\savings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\simplebankaccount\\simplebankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|solutionrelative:simplebankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\simplebankaccount\\simplebankaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|solutionrelative:simplebankaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\simplebankaccount\\simplebankaccount\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62632164-AEB0-43BE-891D-8E4FE992F83E}|SimpleBankAccount\\SimpleBankAccount.csproj|solutionrelative:simplebankaccount\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleBankAccount\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Program.cs",
+              "RelativeToolTip": "SimpleBankAccount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:51:49.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Savings.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Savings.cs",
+              "RelativeDocumentMoniker": "SimpleBankAccount\\Savings.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Savings.cs",
+              "RelativeToolTip": "SimpleBankAccount\\Savings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:55:49.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checking.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Checking.cs",
+              "RelativeDocumentMoniker": "SimpleBankAccount\\Checking.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Checking.cs",
+              "RelativeToolTip": "SimpleBankAccount\\Checking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:54:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Account.cs",
+              "RelativeDocumentMoniker": "SimpleBankAccount\\Account.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\SimpleBankAccount\\SimpleBankAccount\\Account.cs",
+              "RelativeToolTip": "SimpleBankAccount\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:53:37.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

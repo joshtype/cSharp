@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\bin\Debug\net8.0\RecursiveFamilyTree.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\bin\Debug\net8.0\RecursiveFamilyTree.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\bin\Debug\net8.0\RecursiveFamilyTree.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\bin\Debug\net8.0\RecursiveFamilyTree.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\bin\Debug\net8.0\RecursiveFamilyTree.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\refint\RecursiveFamilyTree.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\RecursiveFamilyTree.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\RecursiveFamilyTree\RecursiveFamilyTree\obj\Debug\net8.0\ref\RecursiveFamilyTree.dll

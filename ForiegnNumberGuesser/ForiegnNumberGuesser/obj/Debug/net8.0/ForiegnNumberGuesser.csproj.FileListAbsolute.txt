@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\bin\Debug\net8.0\ForiegnNumberGuesser.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\bin\Debug\net8.0\ForiegnNumberGuesser.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\bin\Debug\net8.0\ForiegnNumberGuesser.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\bin\Debug\net8.0\ForiegnNumberGuesser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\bin\Debug\net8.0\ForiegnNumberGuesser.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\refint\ForiegnNumberGuesser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ForiegnNumberGuesser.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ForiegnNumberGuesser\ForiegnNumberGuesser\obj\Debug\net8.0\ref\ForiegnNumberGuesser.dll

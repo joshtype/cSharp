@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57345040-82DD-4B9C-9C9F-9A40F47DEFDC}|QuizMaker\\QuizMaker.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\quizmaker\\quizmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57345040-82DD-4B9C-9C9F-9A40F47DEFDC}|QuizMaker\\QuizMaker.csproj|solutionrelative:quizmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57345040-82DD-4B9C-9C9F-9A40F47DEFDC}|QuizMaker\\QuizMaker.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\quizmaker\\quizmaker\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57345040-82DD-4B9C-9C9F-9A40F47DEFDC}|QuizMaker\\QuizMaker.csproj|solutionrelative:quizmaker\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57345040-82DD-4B9C-9C9F-9A40F47DEFDC}|QuizMaker\\QuizMaker.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\quizmaker\\quizmaker\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57345040-82DD-4B9C-9C9F-9A40F47DEFDC}|QuizMaker\\QuizMaker.csproj|solutionrelative:quizmaker\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\QuizMaker\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizMaker\\Quiz.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\QuizMaker\\Quiz.cs",
+              "RelativeToolTip": "QuizMaker\\Quiz.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwGgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:37:38.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\QuizMaker\\Question.cs",
+              "RelativeDocumentMoniker": "QuizMaker\\Question.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\QuizMaker\\Question.cs",
+              "RelativeToolTip": "QuizMaker\\Question.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:36:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\QuizMaker\\Program.cs",
+              "RelativeDocumentMoniker": "QuizMaker\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\QuizMaker\\QuizMaker\\Program.cs",
+              "RelativeToolTip": "QuizMaker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:35:25.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

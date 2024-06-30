@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\bin\Debug\net8.0\PokemonGonsole.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\bin\Debug\net8.0\PokemonGonsole.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\bin\Debug\net8.0\PokemonGonsole.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\bin\Debug\net8.0\PokemonGonsole.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\bin\Debug\net8.0\PokemonGonsole.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\refint\PokemonGonsole.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\PokemonGonsole.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\PokemonGonsole\PokemonGonsole\obj\Debug\net8.0\ref\PokemonGonsole.dll

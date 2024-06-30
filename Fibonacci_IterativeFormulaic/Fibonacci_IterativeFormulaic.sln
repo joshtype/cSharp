@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci_IterativeFormulaic", "Fibonacci_IterativeFormulaic\Fibonacci_IterativeFormulaic.csproj", "{B53A9E1B-D079-4C4D-A782-5D075C3E4157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53A9E1B-D079-4C4D-A782-5D075C3E4157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53A9E1B-D079-4C4D-A782-5D075C3E4157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53A9E1B-D079-4C4D-A782-5D075C3E4157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53A9E1B-D079-4C4D-A782-5D075C3E4157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC739C22-F453-471C-9ADE-BE0693CEF8D4}
+	EndGlobalSection
+EndGlobal

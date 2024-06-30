@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\bin\Debug\net8.0\MoneyDispenser.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\bin\Debug\net8.0\MoneyDispenser.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\bin\Debug\net8.0\MoneyDispenser.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\bin\Debug\net8.0\MoneyDispenser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\bin\Debug\net8.0\MoneyDispenser.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\refint\MoneyDispenser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\MoneyDispenser.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\MoneyDispenser\MoneyDispenser\obj\Debug\net8.0\ref\MoneyDispenser.dll

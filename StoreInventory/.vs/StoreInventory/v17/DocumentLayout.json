@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\StoreInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2BEFC5-CC9E-4EBE-B8C7-471248B64630}|StoreInventory\\StoreInventory.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\storeinventory\\storeinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2BEFC5-CC9E-4EBE-B8C7-471248B64630}|StoreInventory\\StoreInventory.csproj|solutionrelative:storeinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2BEFC5-CC9E-4EBE-B8C7-471248B64630}|StoreInventory\\StoreInventory.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\storeinventory\\storeinventory\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2BEFC5-CC9E-4EBE-B8C7-471248B64630}|StoreInventory\\StoreInventory.csproj|solutionrelative:storeinventory\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\StoreInventory\\StoreInventory\\StockItem.cs",
+              "RelativeDocumentMoniker": "StoreInventory\\StockItem.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\StoreInventory\\StoreInventory\\StockItem.cs",
+              "RelativeToolTip": "StoreInventory\\StockItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:31:30.896Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\StoreInventory\\StoreInventory\\Program.cs",
+              "RelativeDocumentMoniker": "StoreInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\StoreInventory\\StoreInventory\\Program.cs",
+              "RelativeToolTip": "StoreInventory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:25:57.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

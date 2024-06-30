@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\FamilyTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D23DBA47-7277-413F-8ACB-C155A63C7AAB}|FamilyTree\\FamilyTree.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\familytree\\familytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23DBA47-7277-413F-8ACB-C155A63C7AAB}|FamilyTree\\FamilyTree.csproj|solutionrelative:familytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\FamilyTree\\FamilyTree\\Program.cs",
+              "RelativeDocumentMoniker": "FamilyTree\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\FamilyTree\\FamilyTree\\Program.cs",
+              "RelativeToolTip": "FamilyTree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:14:49.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

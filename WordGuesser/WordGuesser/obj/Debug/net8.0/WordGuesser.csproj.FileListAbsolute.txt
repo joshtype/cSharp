@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\bin\Debug\net8.0\WordGuesser.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\bin\Debug\net8.0\WordGuesser.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\bin\Debug\net8.0\WordGuesser.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\bin\Debug\net8.0\WordGuesser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\bin\Debug\net8.0\WordGuesser.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\refint\WordGuesser.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\WordGuesser.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\WordGuesser\WordGuesser\obj\Debug\net8.0\ref\WordGuesser.dll

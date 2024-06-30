@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\WordGuesser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548798C6-1538-48E8-BF4B-EDAE18E0C105}|WordGuesser\\WordGuesser.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\wordguesser\\wordguesser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548798C6-1538-48E8-BF4B-EDAE18E0C105}|WordGuesser\\WordGuesser.csproj|solutionrelative:wordguesser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548798C6-1538-48E8-BF4B-EDAE18E0C105}|WordGuesser\\WordGuesser.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\wordguesser\\wordguesser\\english.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548798C6-1538-48E8-BF4B-EDAE18E0C105}|WordGuesser\\WordGuesser.csproj|solutionrelative:wordguesser\\english.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "English.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\WordGuesser\\WordGuesser\\English.cs",
+              "RelativeDocumentMoniker": "WordGuesser\\English.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\WordGuesser\\WordGuesser\\English.cs",
+              "RelativeToolTip": "WordGuesser\\English.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:10:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\WordGuesser\\WordGuesser\\Program.cs",
+              "RelativeDocumentMoniker": "WordGuesser\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\WordGuesser\\WordGuesser\\Program.cs",
+              "RelativeToolTip": "WordGuesser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:46:48.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

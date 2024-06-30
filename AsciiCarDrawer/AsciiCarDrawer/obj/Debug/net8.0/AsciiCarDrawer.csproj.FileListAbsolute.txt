@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\bin\Debug\net8.0\AsciiCarDrawer.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\bin\Debug\net8.0\AsciiCarDrawer.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\bin\Debug\net8.0\AsciiCarDrawer.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\bin\Debug\net8.0\AsciiCarDrawer.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\bin\Debug\net8.0\AsciiCarDrawer.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\refint\AsciiCarDrawer.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\AsciiCarDrawer.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\AsciiCarDrawer\AsciiCarDrawer\obj\Debug\net8.0\ref\AsciiCarDrawer.dll

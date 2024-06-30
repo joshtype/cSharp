@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B59C309-275F-4C7E-AEC0-69A40CF0D914}|MoneyDispenser\\MoneyDispenser.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\moneydispenser\\moneydispenser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B59C309-275F-4C7E-AEC0-69A40CF0D914}|MoneyDispenser\\MoneyDispenser.csproj|solutionrelative:moneydispenser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B59C309-275F-4C7E-AEC0-69A40CF0D914}|MoneyDispenser\\MoneyDispenser.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\moneydispenser\\moneydispenser\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B59C309-275F-4C7E-AEC0-69A40CF0D914}|MoneyDispenser\\MoneyDispenser.csproj|solutionrelative:moneydispenser\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B59C309-275F-4C7E-AEC0-69A40CF0D914}|MoneyDispenser\\MoneyDispenser.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\moneydispenser\\moneydispenser\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B59C309-275F-4C7E-AEC0-69A40CF0D914}|MoneyDispenser\\MoneyDispenser.csproj|solutionrelative:moneydispenser\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coins.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\MoneyDispenser\\Coins.cs",
+              "RelativeDocumentMoniker": "MoneyDispenser\\Coins.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\MoneyDispenser\\Coins.cs",
+              "RelativeToolTip": "MoneyDispenser\\Coins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:54:39.521Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notes.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\MoneyDispenser\\Notes.cs",
+              "RelativeDocumentMoniker": "MoneyDispenser\\Notes.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\MoneyDispenser\\Notes.cs",
+              "RelativeToolTip": "MoneyDispenser\\Notes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:54:42.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\MoneyDispenser\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyDispenser\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\MoneyDispenser\\MoneyDispenser\\Program.cs",
+              "RelativeToolTip": "MoneyDispenser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:43:12.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
