@@ -1,0 +1,17 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\bin\Debug\net8.0-windows\CalculatorGUI.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\bin\Debug\net8.0-windows\CalculatorGUI.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\bin\Debug\net8.0-windows\CalculatorGUI.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\bin\Debug\net8.0-windows\CalculatorGUI.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\bin\Debug\net8.0-windows\CalculatorGUI.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.Form1.resources
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\refint\CalculatorGUI.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\CalculatorGUI.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\CalculatorGUI\CalculatorGUI\obj\Debug\net8.0-windows\ref\CalculatorGUI.dll

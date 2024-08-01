@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BabyThreads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD0E6CC-E450-47A9-BC92-2C3F09D0241E}|BabyThreads\\BabyThreads.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\babythreads\\babythreads\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD0E6CC-E450-47A9-BC92-2C3F09D0241E}|BabyThreads\\BabyThreads.csproj|solutionrelative:babythreads\\baby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD0E6CC-E450-47A9-BC92-2C3F09D0241E}|BabyThreads\\BabyThreads.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\babythreads\\babythreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD0E6CC-E450-47A9-BC92-2C3F09D0241E}|BabyThreads\\BabyThreads.csproj|solutionrelative:babythreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baby.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BabyThreads\\BabyThreads\\Baby.cs",
+              "RelativeDocumentMoniker": "BabyThreads\\Baby.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BabyThreads\\BabyThreads\\Baby.cs",
+              "RelativeToolTip": "BabyThreads\\Baby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:31:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BabyThreads\\BabyThreads\\Program.cs",
+              "RelativeDocumentMoniker": "BabyThreads\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BabyThreads\\BabyThreads\\Program.cs",
+              "RelativeToolTip": "BabyThreads\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:30:36.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

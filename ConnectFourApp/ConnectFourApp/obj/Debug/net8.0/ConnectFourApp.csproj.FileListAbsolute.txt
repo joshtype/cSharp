@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\bin\Debug\net8.0\ConnectFourApp.exe
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\bin\Debug\net8.0\ConnectFourApp.deps.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\bin\Debug\net8.0\ConnectFourApp.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\bin\Debug\net8.0\ConnectFourApp.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\bin\Debug\net8.0\ConnectFourApp.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\refint\ConnectFourApp.dll
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.pdb
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ConnectFourApp.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\Projects\cSharpProjects\ConnectFourApp\ConnectFourApp\obj\Debug\net8.0\ref\ConnectFourApp.dll

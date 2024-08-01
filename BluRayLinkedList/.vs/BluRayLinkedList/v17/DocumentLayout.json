@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\bluraylinkedlist\\bluraylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|solutionrelative:bluraylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\bluraylinkedlist\\bluraylinkedlist\\bluraycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|solutionrelative:bluraylinkedlist\\bluraycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\bluraylinkedlist\\bluraylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|solutionrelative:bluraylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|c:\\users\\atomi\\onedrive\\desktop\\projects\\csharpprojects\\bluraylinkedlist\\bluraylinkedlist\\bluraydisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330EF19B-8138-40C6-93AC-08F872DA7EAB}|BluRayLinkedList\\BluRayLinkedList.csproj|solutionrelative:bluraylinkedlist\\bluraydisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "BluRayLinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\Node.cs",
+              "RelativeToolTip": "BluRayLinkedList\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:35:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BluRayDisc.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\BluRayDisc.cs",
+              "RelativeDocumentMoniker": "BluRayLinkedList\\BluRayDisc.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\BluRayDisc.cs",
+              "RelativeToolTip": "BluRayLinkedList\\BluRayDisc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:32:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BluRayCollection.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\BluRayCollection.cs",
+              "RelativeDocumentMoniker": "BluRayLinkedList\\BluRayCollection.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\BluRayCollection.cs",
+              "RelativeToolTip": "BluRayLinkedList\\BluRayCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:28:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "BluRayLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\Projects\\cSharpProjects\\BluRayLinkedList\\BluRayLinkedList\\Program.cs",
+              "RelativeToolTip": "BluRayLinkedList\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:22:26.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
